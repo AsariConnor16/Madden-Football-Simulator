@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.io.File; 
 import java.io.FileNotFoundException;
 
-public class Main 
+public class MaddenSimulator 
 {
     private static int time; //Set time as 6 minutes, it's accessible within all methods 
     private static boolean employed = true; //Default to the user being employed 
